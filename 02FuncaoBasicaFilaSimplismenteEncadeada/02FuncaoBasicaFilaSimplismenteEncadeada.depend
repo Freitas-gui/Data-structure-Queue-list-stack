@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1559694372 source:c:\users\cb\desktop\naivo\ufes_5\ed\exerciciospilhaslistasfilas\02funcaobasicafilasimplismenteencadeada\02funcaobasicafilasimplismenteencadeada.c
+	"02FuncaoBasicaFilaSimplismenteEncadeada.h"
+
+1559075376 c:\users\cb\desktop\naivo\ufes_5\ed\exerciciospilhaslistasfilas\02funcaobasicafilasimplismenteencadeada\02funcaobasicafilasimplismenteencadeada.h
+	<stdio.h>
+	<stdlib.h>
+
+1559694590 source:c:\users\cb\desktop\naivo\ufes_5\ed\exerciciospilhaslistasfilas\02funcaobasicafilasimplismenteencadeada\main.c
+	"02FuncaoBasicaFilaSimplismenteEncadeada.h"
+

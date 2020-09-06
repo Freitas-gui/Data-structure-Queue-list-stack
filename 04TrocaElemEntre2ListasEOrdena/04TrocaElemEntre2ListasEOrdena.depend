@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1559073887 source:c:\users\cb\desktop\naivo\ufes_5\ed\exerciciospilhaslistasfilas\04trocaelementre2listaseordena\main.c
+	"04TrocaElemEntre2ListasEOrdena.h"
+
+1559073887 c:\users\cb\desktop\naivo\ufes_5\ed\exerciciospilhaslistasfilas\04trocaelementre2listaseordena\04trocaelementre2listaseordena.h
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1559397416 source:c:\users\cb\desktop\naivo\ufes_5\ed\exerciciospilhaslistasfilas\08listwindow\08listwindow.c
+	"08ListWindow.h"
+
+1559396437 c:\users\cb\desktop\naivo\ufes_5\ed\exerciciospilhaslistasfilas\08listwindow\08listwindow.h
+	<stdio.h>
+	<stdlib.h>
+
+1559397282 source:c:\users\cb\desktop\naivo\ufes_5\ed\exerciciospilhaslistasfilas\08listwindow\main.c
+	"08ListWindow.h"
+
+1559352578 c:\users\cb\desktop\naivo\ufes_5\ed\exerciciospilhaslistasfilas\08listwindow\08listwindow.c
+	"08ListWindow.h"
+

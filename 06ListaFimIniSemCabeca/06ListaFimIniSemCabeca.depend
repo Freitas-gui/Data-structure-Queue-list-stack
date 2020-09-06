@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1559230823 source:c:\users\cb\desktop\naivo\ufes_5\ed\exerciciospilhaslistasfilas\06listafiminisemcabeca\06listafiminisemcabeca.c
+	"06ListaFimIniSemCabeca.h"
+
+1559230823 c:\users\cb\desktop\naivo\ufes_5\ed\exerciciospilhaslistasfilas\06listafiminisemcabeca\06listafiminisemcabeca.h
+	<stdio.h>
+	<stdlib.h>
+
+1559230823 source:c:\users\cb\desktop\naivo\ufes_5\ed\exerciciospilhaslistasfilas\06listafiminisemcabeca\main.c
+	"06ListaFimIniSemCabeca.h"
+

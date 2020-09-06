@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1559599290 source:c:\users\cb\desktop\naivo\ufes_5\ed\exerciciospilhaslistasfilas\07listacircularfiminisemcabeca\main.c
+	"07ListaCircularFimIniSemCabeca.h"
+
+1559588051 c:\users\cb\desktop\naivo\ufes_5\ed\exerciciospilhaslistasfilas\07listacircularfiminisemcabeca\07listacircularfiminisemcabeca.h
+	<stdio.h>
+	<stdlib.h>
+
+1559599827 source:c:\users\cb\desktop\naivo\ufes_5\ed\exerciciospilhaslistasfilas\07listacircularfiminisemcabeca\07listacircularfiminisemcabeca.c
+	"07ListaCircularFimIniSemCabeca.h"
+

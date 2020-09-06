@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1559067306 source:c:\users\cb\desktop\naivo\ufes_5\ed\exerciciospilhaslistasfilas\03funcaobasicalistaduplamenteencadeada2\03funcaobasicalistaduplamenteencadeada2.c
+	"03FuncaoBasicaListaDuplamenteEncadeada2.h"
+
+1559067340 c:\users\cb\desktop\naivo\ufes_5\ed\exerciciospilhaslistasfilas\03funcaobasicalistaduplamenteencadeada2\03funcaobasicalistaduplamenteencadeada2.h
+	<stdio.h>
+	<stdlib.h>
+
+1559067306 source:c:\users\cb\desktop\naivo\ufes_5\ed\exerciciospilhaslistasfilas\03funcaobasicalistaduplamenteencadeada2\main.c
+	"03FuncaoBasicaListaDuplamenteEncadeada2.h"
+

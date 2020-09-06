@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1559065669 source:c:\users\cb\desktop\naivo\ufes_5\ed\exerciciospilhaslistasfilas\01funcaobasicapilha2\01funcaobasicapilha2.c
+	"01FuncaoBasicaPilha2.h"
+
+1559065846 c:\users\cb\desktop\naivo\ufes_5\ed\exerciciospilhaslistasfilas\01funcaobasicapilha2\01funcaobasicapilha2.h
+	<stdio.h>
+	<stdlib.h>
+
+1559065616 source:c:\users\cb\desktop\naivo\ufes_5\ed\exerciciospilhaslistasfilas\01funcaobasicapilha2\main.c
+	"01FuncaoBasicaPilha2.h"
+

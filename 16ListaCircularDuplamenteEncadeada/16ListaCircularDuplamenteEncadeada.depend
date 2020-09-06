@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1559436076 source:c:\users\cb\desktop\naivo\ufes_5\ed\exerciciospilhaslistasfilas\16listacircularduplamenteencadeada\16listacircularduplamenteencadeada.c
+	"16ListaCircularDuplamenteEncadeada.h"
+
+1559436076 c:\users\cb\desktop\naivo\ufes_5\ed\exerciciospilhaslistasfilas\16listacircularduplamenteencadeada\16listacircularduplamenteencadeada.h
+	<stdio.h>
+	<stdlib.h>
+
+1559436076 source:c:\users\cb\desktop\naivo\ufes_5\ed\exerciciospilhaslistasfilas\16listacircularduplamenteencadeada\main.c
+	"16ListaCircularDuplamenteEncadeada.h"
+

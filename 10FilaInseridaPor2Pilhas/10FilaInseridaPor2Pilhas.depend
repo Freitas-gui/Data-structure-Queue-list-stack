@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1559693867 source:c:\users\cb\desktop\naivo\ufes_5\ed\exerciciospilhaslistasfilas\10filainseridapor2pilhas\10filainseridapor2pilhas.c
+	"10FilaInseridaPor2Pilhas.h"
+
+1559693813 c:\users\cb\desktop\naivo\ufes_5\ed\exerciciospilhaslistasfilas\10filainseridapor2pilhas\10filainseridapor2pilhas.h
+	<stdio.h>
+	<stdlib.h>
+
+1559693820 source:c:\users\cb\desktop\naivo\ufes_5\ed\exerciciospilhaslistasfilas\10filainseridapor2pilhas\main.c
+	"10FilaInseridaPor2Pilhas.h"
+

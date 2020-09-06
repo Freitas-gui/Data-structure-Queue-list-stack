@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1559428947 source:c:\users\cb\desktop\naivo\ufes_5\ed\exerciciospilhaslistasfilas\09decodificacriptografialistadupla\09decodificacriptografialistadupla.c
+	"09DecodificaCriptografiaListaDupla.h"
+
+1559428947 c:\users\cb\desktop\naivo\ufes_5\ed\exerciciospilhaslistasfilas\09decodificacriptografialistadupla\09decodificacriptografialistadupla.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1559429005 source:c:\users\cb\desktop\naivo\ufes_5\ed\exerciciospilhaslistasfilas\09decodificacriptografialistadupla\main.c
+	"09DecodificaCriptografiaListaDupla.h"
+
